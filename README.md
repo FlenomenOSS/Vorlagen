@@ -10,27 +10,28 @@
 -->
 flinkSFlenomenomm
 ~~~
-> [!Info:]
+[!TIP]
 > 
 > Willkommen im **flinkSFlenomenomm** - ***Vorlagen Repo***
 
-
-## Textvorlagen
+<!-- Text Vorlagen -->
+## Text Vorlagen
+  - Eine einfache Text Vorlage Datei öffnen:  [Text Vorlage](Text.txt)
   - Eine Plaintext Vorlage öffnen:  [Plain Text Vorlage](*.txt)
-    
+<!-- Markdown Vorlagen -->
 ## Markdown Vorlagen
- - Eine Markdown Datei erstellen:   [Markdown Datei](*.md)
-   - README
+ - Eine Markdown Datei erstellen:   [Markdown Vorlage Datei](*.md)
+   - README.md Datei Vorlage öffnen
    - About
-   - History
-
+   - Changelog History Datei Vorlage öffnen
+<!-- XML Vorlagen -->
 ## XML Vorlagen
  - Eine XML Vorlage Öffnen:         [XML Vorlage](file://*.xml)
-  
+ <!-- Lizenz Vorlagen -->
 ### Lizenz
  * Lizenzbedingungen
 
-   
+<!-- Changelog Historie -->
 ### Changelog
   * ChangeLog History
 
