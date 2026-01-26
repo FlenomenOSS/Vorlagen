@@ -1,18 +1,22 @@
-# Vorlagen
+# FLiNNiOS - VORLAGENREPO
  
 <!--  
- *   "README.md Markdown Vorlage Datei" des "flinkSFlenomenomm-Vorlagen Repo"
- *
+ *   "README.md Markdown Vorlage Datei" des **FLiNNiOS - VORLAGENREPO** 
+ * 
+ * @TAGS: Vorlagen,Templates,VORLAGENREPO,dateivorlagen,templatefiles
  * @TEMPLATES:  [This README File](README.md)
  * 
- * @Author:   flinkSFlenomenomm
- * @ 
+ * @project: FLiNNiOS-VORLAGENREPO
+ * @Author: flinkSFlenomenomm
+ * @E-Mail: 
+ * @Website: 
+ *
 -->
 flinkSFlenomenomm
-~~~
-[!TIP]
+
+> [!NOTE]
 > 
-> Willkommen im **flinkSFlenomenomm** - ***Vorlagen Repo***
+> Willkommen im **FLiNNiOS** - ***flinkSFlenomenomm - Vorlagen Repo***
 
 <!-- Text Vorlagen -->
 ## Text Vorlagen
@@ -37,5 +41,6 @@ flinkSFlenomenomm
 
 
 ### Über
-Updated on: 2025-Okt-01
-Author: [flinkSFlenomenom](https://github.com/flinkSFlenomenom)
+**Updated on:** 2025-Okt-01
+**Author:** [flinkSFlenomenom](https://github.com/flinkSFlenomenom)
+**E-MAIL:** 
